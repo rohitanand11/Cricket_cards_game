@@ -1,0 +1,31 @@
+.container{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    transition: all .2s ease-in-out;
+}
+
+.container:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.resultText{
+    margin: 0px;
+    padding:0px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 30pt;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.player_name{
+    margin: 0px;
+    padding:0px;
+    color: red;
+    font-family: 'Indie Flower', cursive;
+    font-size: 35pt;
+    display: inline-block;
+    vertical-align: middle;
+}
