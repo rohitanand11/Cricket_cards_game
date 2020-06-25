@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Cricket_cards_game/static/css/main.409917db.chunk.css",
+    "main.js": "/Cricket_cards_game/static/js/main.c96acd53.chunk.js",
+    "main.js.map": "/Cricket_cards_game/static/js/main.c96acd53.chunk.js.map",
+    "runtime-main.js": "/Cricket_cards_game/static/js/runtime-main.f3847735.js",
+    "runtime-main.js.map": "/Cricket_cards_game/static/js/runtime-main.f3847735.js.map",
+    "static/js/2.6ad7678e.chunk.js": "/Cricket_cards_game/static/js/2.6ad7678e.chunk.js",
+    "static/js/2.6ad7678e.chunk.js.map": "/Cricket_cards_game/static/js/2.6ad7678e.chunk.js.map",
+    "index.html": "/Cricket_cards_game/index.html",
+    "precache-manifest.347c979f93dc8e8fb9363bc091567c9b.js": "/Cricket_cards_game/precache-manifest.347c979f93dc8e8fb9363bc091567c9b.js",
+    "service-worker.js": "/Cricket_cards_game/service-worker.js",
+    "static/css/main.409917db.chunk.css.map": "/Cricket_cards_game/static/css/main.409917db.chunk.css.map",
+    "static/js/2.6ad7678e.chunk.js.LICENSE.txt": "/Cricket_cards_game/static/js/2.6ad7678e.chunk.js.LICENSE.txt",
+    "static/media/3.jpg": "/Cricket_cards_game/static/media/3.f3648ab7.jpg",
+    "static/media/4.jpg": "/Cricket_cards_game/static/media/4.7643de4b.jpg",
+    "static/media/6.jpg": "/Cricket_cards_game/static/media/6.a1d55739.jpg",
+    "static/media/7.jpg": "/Cricket_cards_game/static/media/7.56c3d18e.jpg",
+    "static/media/8.jpg": "/Cricket_cards_game/static/media/8.58da861d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3847735.js",
+    "static/js/2.6ad7678e.chunk.js",
+    "static/css/main.409917db.chunk.css",
+    "static/js/main.c96acd53.chunk.js"
+  ]
+}
